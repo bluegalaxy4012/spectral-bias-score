@@ -3,7 +3,7 @@ audio/
 audio_clean/
 audio_high_pass/
 audio_low_pass/
-audio_mid_pass/
+audio_low_high_pass/
 audio_white_noise/
 
 
